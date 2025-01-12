@@ -46,5 +46,4 @@ API Rate Limits: Be aware of GitHub's API rate limits. Excessive requests may le
 If you have any improvements or suggestions, please feel free to contribute by submitting a pull request or opening an issue.
 
 ## Sample report
-
 ![img.png](img.png)
